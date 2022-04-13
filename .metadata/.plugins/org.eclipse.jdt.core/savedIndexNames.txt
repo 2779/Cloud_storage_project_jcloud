@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\niyaz\OneDrive\Documents\bootcampexercises\66-nov27Nov2021 BOOTATHON 2 CLOUD STARTS\project\cloud_storage\.metadata\.plugins\org.eclipse.jdt.core
+3589762500.index

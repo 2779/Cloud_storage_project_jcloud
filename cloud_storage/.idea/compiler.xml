@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud_storage" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud_storage" options="-endorseddirs &quot;C:\Users\niyaz\OneDrive\Documents\bootcampexercises\66-nov27Nov2021 BOOTATHON 2 CLOUD STARTS\project\cloud_storage\cloud_storage\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>
